@@ -42,7 +42,7 @@ as an honest learning snapshot with its build limitations documented.
 
 `Python` `TensorFlow` `scikit-learn` `Jupyter`
 
-A feature-engineering and neural-network study for Kaggle's House Prices
+A 2019 feature-engineering and neural-network study for Kaggle's House Prices
 competition. The final TensorFlow model recorded a score of `0.11694` and a
 top-15.6% position at the time of submission.
 
