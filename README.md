@@ -1,13 +1,13 @@
 # Abrar Shahriar
 
-Software engineer based in Tokyo, Japan. I build native desktop software,
-real-time graphics experiments, mobile applications, and applied machine
-learning projects.
+Software engineer in Tokyo specializing in real-time computer vision, native
+C++ and Python systems, and GPU-accelerated media pipelines. I also build
+interactive XR applications and practical developer tools.
 
 I care about clear behavior, direct data flow, practical performance, and
-software that another person can build and use. I am open to software
-engineering roles involving native applications, systems, graphics, or
-developer tooling.
+software that another person can build and use. Most of my production work is
+private, so the repositories below highlight the engineering areas I enjoy. I
+am open to C++, computer vision, and ML systems roles.
 
 ## Selected work
 
@@ -38,7 +38,7 @@ architecture. It includes mesh rendering, SPIR-V shaders, an ImGui debug
 interface, and data-oriented entity experiments. The repository is preserved
 as an honest learning snapshot with its build limitations documented.
 
-### [House Prices regression study](https://github.com/AbrarZShahriar/House-Prices--Advanced-Regression-Techniques-TensorFlowLowLevelAPI)
+### [House Prices regression study](https://github.com/AbrarZShahriar/house-prices-tensorflow-2019)
 
 `Python` `TensorFlow` `scikit-learn` `Jupyter`
 
@@ -48,13 +48,15 @@ top-15.6% position at the time of submission.
 
 ## Toolbox
 
-- Native and systems: C++, Qt, Vulkan, SDL2, CMake, and Windows tooling.
-- Applications: TypeScript, React Native, Expo, and Supabase.
-- Data and ML: Python, TensorFlow, scikit-learn, pandas, and Jupyter.
-- Delivery: Git, GitHub Actions, reproducible builds, installers, and release
-  packaging.
+- Real-time ML: Python, PyTorch, TensorFlow, ONNX Runtime, OpenCV, GStreamer,
+  and NVIDIA DeepStream.
+- Native and graphics: C++, Qt, Vulkan, SDL2, CMake, and Windows tooling.
+- Interactive systems: Unreal Engine, Unity, XR, TypeScript, and React Native.
+- Delivery: Git, GitHub Actions, Azure, AWS, reproducible builds, installers,
+  and release packaging.
 
 ## Contact
 
+- [LinkedIn](https://www.linkedin.com/in/abrar-shahriar-4a7483154/)
 - [Email](mailto:a.zshahriar@gmail.com)
 - [X / Twitter](https://x.com/AbrarZShahriar)
