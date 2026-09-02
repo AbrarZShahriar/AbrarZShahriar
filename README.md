@@ -1,7 +1,7 @@
 # Abrar Shahriar
 
 Software engineer based in Tokyo, Japan. I build native desktop software,
-real-time graphics experiments, developer tooling, and applied machine
+real-time graphics experiments, mobile applications, and applied machine
 learning projects.
 
 I care about clear behavior, direct data flow, practical performance, and
@@ -20,14 +20,14 @@ fork adds a reproducible Windows build, a one-click installer, a portable x64
 package, file-association support, automated tests, release checksums, and
 public CI-built binaries.
 
-### [Autonomous Car with Unity ML-Agents](https://github.com/AbrarZShahriar/Autonomous-Car-Unity-ML-Agents)
+### [Rizz Activity Tracker](https://github.com/AbrarZShahriar/rizz-v4-ken)
 
-`Unity` `Deep Reinforcement Learning` `PPO` `Simulation`
+`TypeScript` `React Native` `Expo` `Supabase`
 
-A technical project report for a simulated autonomous car trained with
-Proximal Policy Optimization. It documents the observation space, reward
-design, training parameters, TensorBoard results, and conclusions from roughly
-1.8 million training steps.
+An offline-first mobile activity and goal tracker with authentication,
+statistics, English and Japanese localization, and queued synchronization. The
+repository is an application prototype and documents its remaining test and
+type-check work.
 
 ### [Kodawari Engine](https://github.com/AbrarZShahriar/Kodawari-Engine)
 
@@ -49,7 +49,7 @@ top-15.6% position at the time of submission.
 ## Toolbox
 
 - Native and systems: C++, Qt, Vulkan, SDL2, CMake, and Windows tooling.
-- Graphics and simulation: Unity, OpenGL, SFML, and real-time rendering.
+- Applications: TypeScript, React Native, Expo, and Supabase.
 - Data and ML: Python, TensorFlow, scikit-learn, pandas, and Jupyter.
 - Delivery: Git, GitHub Actions, reproducible builds, installers, and release
   packaging.
